@@ -1,0 +1,18 @@
+Please read this classic paper on string matching. In this paper, a multi-string matching method is presented for bibliographic search. This method is now the basis for many methods of textual search in many contexts (database search, internet search, deep packet inspection, etc). This is a very important topic in computer science. Read this paper up to and including page 4 paragraph 3 (you can go further if you want.) The goal here is to loosely understand how to construct the state machine graph for a simple set of strings using pen and paper.
+
+ASSIGNMENT:
+
+Choose a simple set of 3 strings (example: "help", "hi", "dog"). Construct the following from your 3 pattern set:
+
+Pattern Matching Machine consisting of:
+
+Goto Function
+Failure Function
+Output Function
+
+Use Fig. 1 from the paper as an example of the format. You can write this by hand and scan your handwritten document, or you can construct this electronically. Submit your document to the HW 1.A Dropbox.
+
+
+NOTE 1: It may be a challenge to understand every aspect of this paper, but that is not the point of this assignment. Your goal here is simply to understand enough (either by the technical descriptions or simply by understanding the examples) to be able to generate a simple pattern matchine machine on paper. At any point, if you want me to check your work, just email me your current progress and I will help you. If you can't seem to get started, email me sooner than later.
+
+NOTE 2: This assignment is only worth 30 points, in contrast to the 100 points each for HW0, HW1, HW2, HW3 and HW4
